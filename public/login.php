@@ -36,7 +36,7 @@
                 <button type="submit"><a href="">Đăng nhập</a></button>
                 
                 <hr>
-                <p>Chưa có tài khoản? <a href="Register.html">Đăng ký</a></p>
+                <p>Chưa có tài khoản? <a href="./register.php">Đăng ký</a></p>
             </form>
         </div>
         <div class="copyright">&copy;Copyright by Phanh dep try and Manh xinh gai 2025</div>

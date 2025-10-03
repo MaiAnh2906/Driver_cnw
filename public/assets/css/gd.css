@@ -50,9 +50,11 @@ h2 {
 }
 .input-box {
     width: 100%;
-    margin: 25px 0;
+    margin-top: 25px;
+    margin-bottom: 5px ;
     border-bottom: 2px solid #000;
     position: relative;
+    
 }
 .input-box label {
     top: 50%;
